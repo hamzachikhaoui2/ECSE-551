@@ -1,4 +1,4 @@
-# ECSE-551
+# ECSE551
 Machine Learning for Engineers
 
 **Overview**
